@@ -1,0 +1,3 @@
+black #222629
+dark grey #474B4F
+light blue #66FCF1
