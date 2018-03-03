@@ -34,3 +34,10 @@ body {
 	padding-left: 20px;
 	padding-top: 15px;
 }
+
+/* Contact Form */
+#contactButton {
+	background-color: #454647;
+	color: azure;
+	margin-bottom: 10px;
+}
