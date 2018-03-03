@@ -21,6 +21,16 @@ body {
 
 /*picture padding*/
 .selfPic {
+	padding-left: 15px;
+	padding-right: 25px;
+	float: left;
+}
+
+/* Bio */
+#bioParagraph {
+	color: azure;
+	line-height: 1.8;
+	padding-right: 20px;
 	padding-left: 20px;
-	padding-bottom: 15px;
+	padding-top: 15px;
 }
