@@ -41,3 +41,16 @@ body {
 	color: azure;
 	margin-bottom: 10px;
 }
+
+/* Sidebar */
+.sideBar {
+	margin-top: 100px;
+	margin-left: 875px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+}
+.githubImage {
+	padding-right: 10px;
+}
