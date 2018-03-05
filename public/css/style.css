@@ -47,6 +47,12 @@ h4 {
 	color: azure;
 	margin-bottom: 10px;
 }
+input, textarea {
+	color: azure;
+}
+label {
+	/* text-align: center; */
+}
 
 /* Sidebar */
 .sideBar {
