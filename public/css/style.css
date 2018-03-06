@@ -1,3 +1,4 @@
+/* Overriding framework fonts for my own choices */
 :root {
 	--font-default:"Mina", "Exo 2", Play, Ubuntu, "Times New Roman";
 }
@@ -5,6 +6,7 @@ body {
 	background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/black_lozenge.png);
 	color: azure;
 	font-family: "Mina", "Exo 2", Play, Ubuntu, "Times New Roman";
+
 }
 
 /*Make body appear under nav*/
@@ -53,9 +55,6 @@ h4 {
 }
 input, textarea {
 	color: azure;
-}
-label {
-	/* text-align: center; */
 }
 
 /* Sidebar */
